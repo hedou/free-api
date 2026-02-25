@@ -4,6 +4,10 @@
 <img src="https://github.com/fangzesheng/free-api/blob/master/qrcode.gif" width="180" height="180">
 </div>
 
+# 2026-02-25
+### 本月更新的接口有：[国内运营商基站信息](#676)。
+* **<a id="676">国内运营商基站信息</a>:** 国内三网运营商基站位置信息数据查询 [接口地址](https://www.free-api.com/doc/676)
+
 # 2026-01-24
 ### 本月更新的接口有：[火车票查询](#675)。
 * **<a id="675">火车票查询</a>(可在线调用):** 支持查询高铁、动车等列车的实时票务信息，... [接口地址](https://www.free-api.com/doc/675)
